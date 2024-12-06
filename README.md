@@ -4,8 +4,8 @@ Sumukha Hegde, Data Science Student
 
 🎓 Education :
 
-* Computer Science (AIT,Bengaluru)
-* Data Science (MSRIT, Bengaluru)
+* BE in Computer Science (AIT,Bengaluru)
+* M.Tech in Data Science (MSRIT, Bengaluru)
 
 
 🔧 Skills : C++, Java, JavaScript, Python, NodeJS, ExpressJs, SQL, Kafka, Spark, Docker, Hadoop, Hive, Pig, MongoDB, Cassandra, Tableau, PowerBI, TensorFlow(Basics), Natural Language Processing, Machine Learning, MLops, Deep Learning.
