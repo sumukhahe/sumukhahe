@@ -16,4 +16,4 @@ Sumukha Hegde, Data Science Student
 
 📫 Let's Connect : [Linkedin](https://www.linkedin.com/in/sumukha-hegde-b82613201/) | [Kaggle](https://www.kaggle.com/sumukhhegde)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sumukhahe)
+
